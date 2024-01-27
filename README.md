@@ -60,6 +60,6 @@ To get start with this framework, you will need to have following software on yo
 * My framework is easy to maintain since I have elements stored in one centralized place. If any changes happen in the application about the elements, I know where to go and how to fix it to run test scripts 
   correctly.
 
-## 2024 Jannuary
+## 2024 January
 
 ### END
